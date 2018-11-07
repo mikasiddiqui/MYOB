@@ -1,4 +1,4 @@
-# MYOB IT CHallenge Submission 2016
+# MYOB IT Challenge Submission 2016
 
 ## Introduction
 For this submission, our team created a web solution that helped small businesses with HR. The purpose of this program was to analyse the sentiment of employees, as well as give valuable insight into workplace morale. The majority of this project was completed in a week and designed primarily as a prototype.
